@@ -81,7 +81,8 @@ endmodule
 ## Simulation Output 
 ---
 
-Paste the output here
+<img width="1920" height="1200" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/0b612530-1db6-4254-a37f-5db7ddc975ba" />
+
 
 ---
 ## Result
